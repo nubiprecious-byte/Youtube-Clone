@@ -1,4 +1,5 @@
-# YouTube Clone
+# YouTube Clone Project
+**Live Demo:** [Click to view live](https://nubiprecious-byte.github.io/Youtube-Clone/)
 
 A front-end clone of YouTube's homepage built with HTML and CSS.
 
@@ -64,3 +65,4 @@ Currently using placeholder images from `via.placeholder.com`. Replace these URL
 ## License
 
 Free to use and modify for personal or commercial projects.
+
